@@ -184,6 +184,82 @@ body {
 }
 .contact {
     background: white;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     padding: 30px;
     border-radius: 12px;
     text-align: center;
@@ -205,40 +281,4 @@ footer {
     color: white;
     text-align: center;
     padding: 25px;
-}
-
-
-/* ===================================
-   RESPONSIVE DESIGN
-   Makes the website look good
-   on tablets and phones.
-=================================== */
-
-@media (max-width: 768px) {
-
-    .hero h1 {
-        font-size: 2.2rem;
-    }
-
-    .hero h2 {
-        font-size: 1.2rem;
-    }
-
-    .profile-img {
-        width: 140px;
-        height: 140px;
-    }
-
-    .section-title {
-        font-size: 1.7rem;
-    }
-
-    .container {
-        width: 95%;
-    }
-
-    .skills {
-        justify-content: center;
-    }
-
 }
