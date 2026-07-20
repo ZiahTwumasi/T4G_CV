@@ -123,13 +123,6 @@ body {
     transition: .3s;
 }
 
-/* Hover Effect */
-
-.card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 30px rgba(79,70,229,.18);
-}
-
 .card h3 {
     color: #4f46e5;
     margin-bottom: 5px;
@@ -184,82 +177,6 @@ body {
 }
 .contact {
     background: white;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     padding: 30px;
     border-radius: 12px;
     text-align: center;
